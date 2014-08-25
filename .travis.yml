@@ -1,4 +1,4 @@
 language: c
 compiler:
   - gcc
-script: make && make install
+script: ./bootstrap.sh && ./configure --disable-graphml && make && make install
