@@ -1,5 +1,4 @@
 language: c
 compiler:
   - gcc
-  - clang
-script: ./bootstrap.sh && make && make install
+script: make && make install
