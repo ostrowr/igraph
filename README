@@ -1,4 +1,7 @@
-![](https://travis-ci.org/ostrowr/igraph.svg?branch=travis)
+[![Travis build status][2]][1]
+
+ [1]: https://travis-ci.org/ostrowr/igraph.svg?branch=travis
+ [2]: https://travis-ci.org/ostrowr/igraph.svg?branch=travis
 The igraph library
 ------------------
 
